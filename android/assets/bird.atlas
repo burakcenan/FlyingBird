@@ -1,0 +1,48 @@
+
+bird.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bird
+  rotate: false
+  xy: 1, 1
+  size: 717, 610
+  orig: 717, 610
+  offset: 0, 0
+  index: -1
+
+bird2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bird2
+  rotate: false
+  xy: 1, 1
+  size: 717, 610
+  orig: 717, 610
+  offset: 0, 0
+  index: -1
+
+bird3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bird3
+  rotate: false
+  xy: 1, 1
+  size: 717, 610
+  orig: 717, 610
+  offset: 0, 0
+  index: -1
+
+bird4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bird4
+  rotate: false
+  xy: 1, 1
+  size: 717, 610
+  orig: 717, 610
+  offset: 0, 0
+  index: -1
